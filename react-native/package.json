@@ -1,0 +1,12 @@
+{
+  "name": "watchtower-example-react-native",
+  "private": true,
+  "main": "index.js",
+  "scripts": { "start": "expo start" },
+  "dependencies": {
+    "@watchtowerobservability/react-native": "^0.1.0",
+    "expo": "~51.0.0",
+    "react": "18.2.0",
+    "react-native": "0.74.5"
+  }
+}
